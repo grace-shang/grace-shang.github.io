@@ -4,7 +4,7 @@ Specialist in Mathematics & Its Applications (Probability/Statistics), minor in 
 
 
 ### Work Experience
-<i> Department of Mathematics at the University of Toronto </i> | <i> May 2024 - August 2024 </i> <br>
+<i> Department of Mathematics, University of Toronto </i> | <i> May 2024 - August 2024 </i> <br>
 Textbook Design Assistant for MAT237 (Multivariable Calculus with Proofs)
 
 ### Projects
