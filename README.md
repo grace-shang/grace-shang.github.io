@@ -9,4 +9,4 @@ Textbook Design Assistant for MAT237 (Multivariable Calculus with Proofs)
 
 ### Projects
 <i> Fastball Regression Modelling </i> | <i> STA302 (Methods of Data Analysis I) final project </i> <br>
-<a href="[url](https://github.com/grace-shang/fastballs/blob/03de2b716f277e95f76b3dc263ab36a783e6ea0d/Final%20Report%20STA302.pdf)">[Final report]</a>
+<a href="[url](https://github.com/grace-shang/fastballs/blob/main/Final%20Report%20STA302.pdf)">[Final report]</a>
