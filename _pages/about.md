@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a first year Biostatistics PhD student at the University of Minnesota School of Public Health.
+I am a first year Biostatistics Ph.D. student at the University of Minnesota School of Public Health. I received my B.Sc. in Mathematics and Statistics at the University of Toronto, St. George.
 
-This website is still under construction.
+This website is still under construction. Thanks for your patience!
