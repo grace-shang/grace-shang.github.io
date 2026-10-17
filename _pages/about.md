@@ -29,4 +29,6 @@ latest_posts:
 
 I am a first year Biostatistics Ph.D. student at the University of Minnesota. I received my B.Sc. in Mathematics and Statistics with a minor in Computer Science at the University of Toronto, St. George.
 
+My current methodological research interests include high-dimensional learning, spatiotemporal analysis, and data integration. I am particularly interested in their applications in imaging and neurology.
+
 This website is still under construction. Thanks for your patience!
