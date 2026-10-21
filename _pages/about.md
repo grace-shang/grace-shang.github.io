@@ -6,12 +6,9 @@ subtitle: Biostatistics Ph.D. student, University of Minnesota
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: false # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: false
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,6 +26,6 @@ latest_posts:
 
 I am a first year Biostatistics Ph.D. student at the University of Minnesota. I received my B.Sc. in Mathematics and Statistics with a minor in Computer Science at the University of Toronto, St. George.
 
-My current methodological research interests include high-dimensional learning, spatiotemporal analysis, and data integration. I am particularly interested in their applications in imaging and neurology.
+My current methodological research interests include high-dimensional learning, spatiotemporal analysis, and data integration. I am particularly interested in their applications in medical imaging and neurology.
 
 This website is still under construction. Thanks for your patience!
